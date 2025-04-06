@@ -1,5 +1,5 @@
 # Hi there 👋
-*"Soy programador web: traduzco café en código y problemas en ‘features’ no documentadas."* ☕💻
+***"Soy programador web: traduzco café en código y problemas en ‘features’ no documentadas."*** ☕💻
 
 - 🔭 I’m currently working on UPQ
 - 🌱 Learning Django & Azure Fundamentals
