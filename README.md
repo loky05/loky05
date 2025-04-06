@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on UPQ
-- 🌱 I’m currently learning Django & Azure Fundamentals
+- 🌱 Learning Django & Azure Fundamentals
   
 
 
